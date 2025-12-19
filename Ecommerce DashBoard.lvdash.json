@@ -351,6 +351,10 @@
                   "show": false
                 }
               },
+              "frame": {
+                "showTitle": true,
+                "title": "Revenue Trend"
+              },
               "mark": {
                 "colors": [
                   {
@@ -677,7 +681,7 @@
               "withRowNumber": false,
               "frame": {
                 "showTitle": true,
-                "title": "Top 5 Revenue Generating Customers"
+                "title": "Top 10 Revenue Generating Customers"
               }
             }
           },
